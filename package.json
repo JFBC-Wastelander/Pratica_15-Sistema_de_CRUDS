@@ -1,0 +1,13 @@
+{
+  "name": "pratica_15-sistema_de_cruds",
+  "version": "1.0.0",
+  "description": "Vários cruds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
